@@ -1,0 +1,72 @@
+.parent{
+ position: relative;
+ width: 40%;
+ height: 300px;
+ float: left;
+}
+
+.Overview {
+    /* border: 5px solid; */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+  }
+
+.Overview_writing_Parent{
+    position: relative;
+    width: 60%;
+    height: 300px;
+    float: right;
+
+}
+.Overview_Writing{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+}
+.space_for_four_parent{
+    position: relative;
+    width: 40%;
+    height: 400px;
+    float: left;   
+}
+.writing{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+}
+.photo{
+    position: relative;
+    width: 50%;
+    height: 400px;
+
+    float: right;
+    margin-left: 20px;
+}
+.photo1{
+    position: relative;
+    width: 50%;
+    height: 400px;
+
+    float: left;
+}
+.creature_comfort{
+position: relative;
+    width: 40%;
+    height: 400px;
+    float: right; 
+}
+.writing1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+float: right;
+}
